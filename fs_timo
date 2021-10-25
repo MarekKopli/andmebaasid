@@ -82,5 +82,5 @@ INSERT INTO Player (name, lastName, group_id) VALUES
 ('Katheryn','Wooten',4),
 ('Karina','Harding',4);
 
-INSERT INTO Parent (firstName, LastName) VALUES ('Matt','Garner'), ('Alexis','Garner'), ('Kati','Ayers'), ('Kalle','Ayers'), ('Bob','Zamora'), ('Lana','Zamora'), ('Dirk','Burgess'), ('Natalja','Nunez'), ('Kevin','Stark')
-INSERT INTO PlayerParent (player_id, parent_id) VALUES ('1','1'), ('1','2'), ('2','3'), ('2','4'), ('3','5'), ('3','6'), ('4','7'), ('5','8'), ('6','9')
+INSERT INTO Parent (firstName, LastName) VALUES ('Matt','Garner'), ('Alexis','Garner'), ('Kati','Ayers'), ('Kalle','Ayers'), ('Bob','Zamora'), ('Lana','Zamora'), ('Dirk','Burgess'), ('Natalja','Nunez'), ('Kevin','Stark');
+INSERT INTO PlayerParent (player_id, parent_id) VALUES ('1','1'), ('1','2'), ('2','3'), ('2','4'), ('3','5'), ('3','6'), ('4','7'), ('5','8'), ('6','9');
