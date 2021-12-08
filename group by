@@ -1,0 +1,1 @@
+SELECT group_id, COUNT(*) FROM Player GROUP BY group_id
